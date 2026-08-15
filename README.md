@@ -1,6 +1,6 @@
-# Kraptor CS arşivi
+# PerfecPlay Eklenti Merkezi
 
-Kraptor123/cs-kraptor deposunun `builds` dalından kurtarılan CloudStream `.cs3` eklentilerinin arşividir.
+PerfecPlay tarafından sunulan CloudStream `.cs3` eklenti koleksiyonudur.
 
 ## CloudStream repo adresi
 

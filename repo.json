@@ -1,7 +1,7 @@
 {
-  "iconUrl": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/.github/icons/logo/kraptorfavicon.png",
-  "name": "Kraptor CS Arşivi | @perfecplay",
-  "description": "Kraptor CloudStream eklentilerinin arşivlenmiş kopyası",
+  "iconUrl": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/perfecplay.png",
+  "name": "PerfecPlay Eklenti Merkezi",
+  "description": "Film, dizi, anime ve canlı yayın kaynakları — PerfecPlay",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/plugins.json"
