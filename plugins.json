@@ -1393,7 +1393,7 @@
       "Eagle"
     ],
     "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "fileSize": 33328,
+    "fileSize": 33471,
     "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
     "language": "tr",
     "tvTypes": [
@@ -1403,6 +1403,6 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-259ac1db7b8ef773644bb761991ed69cc2149763a540782ff5b0375f71c5a620"
+    "fileHash": "sha256-dbb2f02313680fb7694038f62c608349cd9950e5f9a8cf721a007045017bb305"
   }
 ]
