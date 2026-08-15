@@ -979,28 +979,6 @@
     "fileHash": "sha256-23ec3a3a6ab5751a1d1bccd9af8544e97db5c544b1fa752db87b0b04f8b8838a"
   },
   {
-    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/RecTV.cs3",
-    "status": 1,
-    "version": 43,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Eagle"
-    ],
-    "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "fileSize": 71232,
-    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-b912d3254b9b8f3e22c39ca3b15948520be9c4c9c953a6c314d787eb26c06101"
-  },
-  {
     "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/SeiCode.cs3",
     "status": 1,
     "version": 25,
@@ -1404,5 +1382,27 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-3c2ca3d9f30ad017cfc56e044bf38980ddf98b4426be77e1c6ce1cb3487706b2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/perfecplay/kraptor-cs/refs/heads/main/RecTV.cs3",
+    "status": 1,
+    "version": 107,
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "authors": [
+      "Eagle"
+    ],
+    "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "fileSize": 33328,
+    "repositoryUrl": "https://github.com/perfecplay/kraptor-cs",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-259ac1db7b8ef773644bb761991ed69cc2149763a540782ff5b0375f71c5a620"
   }
 ]
